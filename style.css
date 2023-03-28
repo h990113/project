@@ -1,0 +1,43 @@
+@charset "utf-8";
+body {
+    font-size: 200%;
+}
+nav{
+    font-size: 125%;
+}
+nav a:link{
+    text-decoration: none;
+    color: #1A7C1F;
+}
+nav a:hover{
+    color: #30FFE8;
+    font-weight: 200
+}
+nav a:visited{
+    color: #A0FFAB;
+}
+div {
+    border: 3px solid rgb(12, 35, 37);
+    color: #221e1e;
+}
+a {
+    color:rgb(5, 67, 67);
+}
+.link_information{
+    margin-right: 40%;
+}
+.link_last{
+    font-size: 50%;
+    margin-bottom: 20%;
+}
+.link_back{
+    margin: left 10px;;
+}
+footer{
+    text-align: left;
+}
+main{
+    margin-left: auto;
+    margin-right: auto;
+    text-align:left;
+}
